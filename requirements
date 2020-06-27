@@ -1,0 +1,8 @@
+BeautifulSoup==3.2.1
+argparse==1.2.1
+ipython==2.3.0
+requests==2.4.3
+wsgiref==0.1.2
+xlrd==0.9.3
+xlutils==1.7.1
+xlwt==0.7.5
